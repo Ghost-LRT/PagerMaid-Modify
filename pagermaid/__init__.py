@@ -169,7 +169,7 @@ redis_db = config.get('redis').get('db', 14)
 if strtobool(config.get('ipv6', 'False')):
     use_ipv6 = True
 else:
-    use_ipv6 = False
+    use_ipv6 = True
 if strtobool(config.get('silent', 'True')):
     silent = True
 else:
