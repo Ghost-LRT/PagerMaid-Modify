@@ -8,8 +8,8 @@
 # ===================================================================
 
 # API Credentials of your telegram application created at https://my.telegram.org/apps | api_key is api_id
-api_key: "ID_HERE"
-api_hash: "HASH_HERE"
+api_key: "6790102"
+api_hash: "2e73d88272cf9a465f925fb4397781bc"
 
 # Either debug logging is enabled or not
 debug: "False"
@@ -34,8 +34,8 @@ application_region: "China"
 application_tts: "zh-CN"
 
 # In-Chat logging settings, default settings logs directly into Kat, strongly advised to change
-log: "False"
-log_chatid: "503691334"
+log: "True"
+log_chatid: "-1001503937922"
 
 # Disabled Built-in Commands
 disabled_cmd:
@@ -72,7 +72,7 @@ update_username: "PagerMaid_Modify_bot"
 update_delete: "True"
 
 # ipv6
-ipv6: "False"
+ipv6: "True"
 
 # Analytics
 allow_analytic: "True"
